@@ -1,0 +1,11 @@
+OTX_API_KEY=your_otx_api_key_here
+MONGO_URI=your_mongodb_connection_string_here
+MONGO_DB=your_database_name_here
+MONGO_COLLECTION=your_collection_name_here
+OTX_PAGE_LIMIT=50
+# Optional incremental load settings
+OTX_MODIFIED_SINCE=YYYY-MM-DDTHH:MM:SS+00:00
+OTX_WATERMARK_FILE=your_.otx_watermark.json
+REQUEST_TIMEOUT=30
+MAX_RETRIES=5
+BACKOFF_SECONDS=2

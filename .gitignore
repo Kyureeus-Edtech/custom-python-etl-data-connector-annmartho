@@ -1,0 +1,4 @@
+.env
+.otx_watermark.json
+__pycache__/
+*.pyc
